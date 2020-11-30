@@ -1,0 +1,116 @@
+.Pharma{
+	position: relative;
+	top:0;
+	left:0;
+	
+
+}
+.pic2{
+	position: relative;
+	height:170px;
+	width:1000px;
+	margin-left:175px;
+	top:0;
+	left:0;
+	
+	
+}
+.pic1{
+	position:absolute;
+	top:60px;
+	left:200px;
+}
+#pic3{
+	height:200px;
+	width:1000px;
+	margin-left:175px;
+}
+.categories{
+	left:0%;
+	top:0%;
+	background-color:white;
+	display:inline-block;
+	border:1px solid lightgrey;
+		
+
+
+
+}
+#catg1{
+	color:darkblue;
+	font-size:23px;
+	font-weight:bolder;
+}
+.catg{
+	text-decoration: none;
+	margin-left: 20px;
+	font-size:18px;
+	font-weight:bolder;
+}
+
+#Profiles{
+	left:23%;
+
+	border:1px solid black;
+	display:inline-block;
+	position: absolute;
+
+}
+#Profiles1{
+	left:40%;
+
+	border:1px solid black;
+	display:inline-block;
+	position: absolute;
+
+}
+#CP{
+	display: inline-block;
+	height:300;
+	width:1000px;
+	border:1px solid grey;
+	margin-left:175px;
+	position: relative;
+}
+
+.FeaturedProfiles{
+	height:85px;
+	width:400px;
+	border:2px solid grey;
+
+}
+.FeaturedProfiles1{
+	height:85px;
+	width:379px;
+	border:2px solid grey;
+
+}
+.images1{
+	height:60px;
+	width: 70px;
+	padding:10px;
+}
+
+.sideprofile{
+	left:63.5%;
+
+	border:0.5px solid black;
+	display:inline-block;
+	position: absolute;
+
+
+}
+#CP{
+	display: inline-block;
+	height:300;
+	width:1000px;
+	border:1px solid black;
+	margin-left:175px;
+	position: relative;
+}
+.last{
+	height:120px;
+	width:200px;
+	display: inline-block;
+	border:2px solid none;
+}
